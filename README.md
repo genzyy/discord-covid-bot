@@ -1,5 +1,10 @@
 <h1 align="center">discord-covid-bot</h1>
 
+## Example
+<p align="center">
+    <img align="center" src="covidbot.png">
+</p>
+
 ## Requirements
 
 - A Discord account
