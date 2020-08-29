@@ -36,3 +36,9 @@ After this to run the bot locally, just run this in the terminal,
 ## Available Commands
 
 The available command is `!cases country-name` which will give you confirmed cases, deaths and recovered cases from covid of that country.
+
+
+## Adding bot to your discord server
+
+Follow this link: https://discord.com/oauth2/authorize?client_id=748926086741491712&scope=bot&permissions=0
+You must be logged into the discord web app and you have to have administrative permissions of the server you are trying to add the bot to.
